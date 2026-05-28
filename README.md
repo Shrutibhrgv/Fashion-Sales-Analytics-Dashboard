@@ -31,7 +31,9 @@ To maintain professional standards, the workbook utilizes a robust **4-tier data
 ---
 
 ## 📸 Dashboard Preview
-<img width="1538" height="617" alt="Dashboard overview" src="https://github.com/user-attachments/assets/78b3af3b-9fa2-477e-8efd-7beb8a86744b" />
+<img width="1743" height="691" alt="Dahboard overview" src="https://github.com/user-attachments/assets/113ae469-b418-48e6-9e98-0893d126ee06" />
+
+
 
 
 
