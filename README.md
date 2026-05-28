@@ -46,4 +46,4 @@ To maintain professional standards, the workbook utilizes a robust **4-tier data
 ---
 
 ## 👤 Author
-**Shrutika Bhargav** *Data & Business Analyst Enthusiast* [Your LinkedIn Profile Link] | [Your Email Address]
+**Shrutika Bhargav** *Data & Business Analyst Enthusiast* www.linkedin.com/in/shrutika-bhargav-98a82827b | bhargavshrutika@gmail.com
